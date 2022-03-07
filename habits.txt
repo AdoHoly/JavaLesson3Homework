@@ -3,3 +3,4 @@
 3. Keep it simple and consistent. So your code wont interrupt others. Avoid bugs and crashes.
 4. Get in the zone. Make your own time schedules so you wont be interrupted and you will be more productive.
 5. Always be learning and sharpening your skills. Otherwise you wont be "updated".
+6. Collaboration. This is teamwork. Dont do everything alone.  
